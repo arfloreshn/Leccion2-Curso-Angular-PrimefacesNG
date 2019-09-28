@@ -3,7 +3,7 @@ En esta lección aprendera a crear una aplicacion con angular, aprendera a inclu
 
 # Aviso
 
-Cada lección va incluye una explicación en PDF, bajela y siga los pasos, use este proyecto en base de corrección, ya esta probado.
+Cada lección incluye una explicación en PDF bajelo y siga los pasos, use este proyecto en base de corrección, ya esta probado.
 
 # Requerimientos de desarrollo
 
