@@ -1,4 +1,18 @@
-# Leccion2
+# Lección 2,  Enrutamiento y Enlances a Componentes con PrimefaceNG y Angular.
+En esta lección aprendera a crear una aplicacion con angular, aprendera a incluir los componente de PrimefacesNG
+
+# Aviso
+
+Cada lección va incluye una explicación en PDF, bajela y siga los pasos, use este proyecto en base de corrección, ya esta probado.
+
+# Requerimientos de desarrollo
+
+  1.- Tener instalado Node 10
+  2.- Tener instalado VisualStudio Code
+  3.- Tener instalado TypeScripts en VisualStudioCode.
+  4.- Tener instalado angular.
+
+# Detalles de la aplicación
 
 Este proyecto esta generado con [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
